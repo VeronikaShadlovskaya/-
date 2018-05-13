@@ -1,0 +1,8 @@
+﻿  maincpp.cpp
+d:\курсовая\test\test\maincpp.cpp(34): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\курсовая\test\test\maincpp.cpp(49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\курсовая\test\test\maincpp.cpp(231): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\курсовая\test\test\maincpp.cpp(232): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\курсовая\test\test\maincpp.cpp(258): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  test.vcxproj -> D:\курсовая\test\Debug\test.exe
+  test.vcxproj -> D:\курсовая\test\Debug\test.pdb (Full PDB)
